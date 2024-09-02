@@ -110,7 +110,7 @@ GEM
     formatador (1.1.0)
     globalid (1.2.1)
       activesupport (>= 6.1)
-    guard (2.18.0)
+    guard (2.18.1)
       formatador (>= 0.2.4)
       listen (>= 2.7, < 4.0)
       lumberjack (>= 1.0.12, < 2.0)
@@ -352,7 +352,7 @@ DEPENDENCIES
   bootsnap
   capybara (= 3.38.0)
   debug (= 1.7.1)
-  guard (= 2.18.0)
+  guard (= 2.18.1)
   guard-minitest (= 2.4.6)
   importmap-rails
   irb (= 1.14.0)
