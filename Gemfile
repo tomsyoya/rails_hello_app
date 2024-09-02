@@ -35,7 +35,7 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 group :development, :test do
-  gem "debug",   "1.7.1", platforms: %i[ mri mingw x64_mingw ]
+  gem "debug",   "1.9.2", platforms: %i[ mri mingw x64_mingw ]
 end
 
 group :development do
