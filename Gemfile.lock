@@ -130,7 +130,7 @@ GEM
       activesupport (>= 6.0.0)
       railties (>= 6.0.0)
     io-console (0.7.2)
-    irb (1.13.0)
+    irb (1.14.0)
       rdoc (>= 4.0.0)
       reline (>= 0.4.2)
     jaro_winkler (1.6.0)
@@ -355,7 +355,7 @@ DEPENDENCIES
   guard (= 2.18.0)
   guard-minitest (= 2.4.6)
   importmap-rails
-  irb (= 1.13)
+  irb (= 1.14.0)
   jbuilder
   minitest (= 5.18.0)
   minitest-reporters (= 1.6.0)
