@@ -42,7 +42,7 @@ end
 group :development do
   gem "web-console",         "4.2.1"
   gem "solargraph",          "0.50.0"
-  gem "irb",                 "1.14.0"
+  gem "irb",                 "1.14.1"
   gem "repl_type_completor", "0.1.6"
 end
 
